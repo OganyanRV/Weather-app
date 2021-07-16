@@ -20,6 +20,13 @@ I've used:
 
 
 
+## Demonstration of work
+
+### Gif
+
+![work-demo](./src_md/work-demo.gif)
+
+
 ### Screenies
 
 ![1](./src_md/1.jpg)
